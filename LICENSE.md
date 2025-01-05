@@ -17,5 +17,5 @@ Permission is granted to any person obtaining a copy of this software and associ
 6. Any modification to the software must include this license, and all fees must be directed to Vaprant.
 
 By using the Software, you agree to these terms and conditions.
-## Copyright (c) 2024 Vaprant
+## Copyright © 2025 Vaprant
 
